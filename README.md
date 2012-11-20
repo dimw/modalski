@@ -107,7 +107,7 @@ Modalski.updateRel();
 
 ## Customization
 
-Changes to colours, default dialog size, fonts etc. can be made by adjusting particular values in [modalski/css/modalski.css](https://github.com/dimw/modalski/blob/master/modalski/css/modalski.css).
+Changes to colours, default dialog size, fonts etc. can be made by adjusting particular values in [modalski.css](modalski/tree/master/modalski/css/modalski.css).
 
 
 ## Questions

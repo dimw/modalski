@@ -1,4 +1,4 @@
-# Modalski – jQuery Plugin for Modal Dialogs
+# Modalski ï¿½ jQuery Plugin for Modal Dialogs
 
 Modalski is a powerfull and easy to use jQuery plugin which brings you the possibility to load external content within a modal window inside your web site. Existing pages with data and forms will be processed to fit the dialog. No or only minor changes to the source are necessary. Modalski is designed to handle callbacks and loads external pages via Ajax (no iframes).
 
@@ -7,7 +7,7 @@ With Modalski only the relationship attribute has to be added to the anchors to 
 
 ## Installation
 
-The installation of Modalski is very simple. Copy the [modalski](https://github.com/dimw/modalski/modalski/) folder to your project and bind jQuery followed by the CSS and Javascript files of Modalski in the header of your webpage.
+The installation of Modalski is very simple. Copy the [modalski](https://github.com/dimw/modalski/tree/master/modalski) folder to your project and bind jQuery followed by the CSS and Javascript files of Modalski in the header of your webpage.
 
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
